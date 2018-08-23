@@ -12,3 +12,6 @@ https://www.kaggle.com/imnikhilanand/heart-attack-prediction
 
 For more details on how to use jupyter notebook please refer
 https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
+## Related article
+https://medium.com/@digvijay.u20/heart-disease-diagnosis-with-tensorflow-8b1c8cb389d7
